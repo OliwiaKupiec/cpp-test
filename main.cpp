@@ -7,7 +7,7 @@ int main()
     int t[10]={0};
     int u[100]={0}; //na ulamek binarny
     int i=9;
-cout<<"Podaj liczbe";
+cout<<"Podaj dowolna liczbe";
 cin>>liczba10; //wczytanie liczby z ulamkiem
 //cin>>n;
 n=(int) liczba10; //pobieramy czesc calkowita
